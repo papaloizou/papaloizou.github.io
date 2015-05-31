@@ -1,0 +1,32 @@
+
+body {
+	font-family: 'Open sans', sans-serif;
+	background-color: white;
+	}
+
+h1 {
+	font-weight: lighter;
+	font-size: 90px;
+	margin-left: 330px;
+	margin-top: 20px;
+	}
+
+a {
+	color: grey;
+    text-decoration: none;
+    }
+    
+nav {
+	font-size: 50px;
+	font-weight: lighter;
+	border-radius: 15px;
+	}
+    
+
+footer {
+	color: grey;
+	font-weight: lighter;
+	margin-left: 650px;
+	margin-top: 300px;
+	}
+
